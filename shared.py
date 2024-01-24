@@ -48,12 +48,5 @@ modules_to_import = {
     "litellm_proxy": ["show_litellm_proxy_page"],
     "public_endpoint": ["show_public_endpoint_page"],
     "downloading_models": ["show_downloading_models_page"],
-    "High_Precision_Quantization": ["show_high_precision_quantization_page"],
-    "Medium_Precision_Quantization": ["show_medium_precision_quantization_page"],
-    "UploadtoHuggingface": ["show_model_management_page"],
-    "token_encrypt": ["show_token_encrypt_page"],
-    "chat_interface": ["show_chat_interface"],
-    "agents": ["show_agents_page"],
-    "sessions": ["show_sessions_page"],
-    "groups": ["show_groups_page"]
+    "chat_interface": ["show_chat_interface"]
 }
